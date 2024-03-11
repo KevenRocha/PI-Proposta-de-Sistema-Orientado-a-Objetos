@@ -12,8 +12,6 @@ Grupo-27
 - Guilherme Jorge Pereira
 - João Keven Araujo Rocha
 - Daniel Richard de Brito Santos
-- Lucas da Silva Mendes
-- Matheus Vinicius Marinho Soares
 
 ## Página Inicial
 ![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216790142342271168/image.png?ex=6601ab20&is=65ef3620&hm=dd36c7574296ff94c90d3abf0f28229c6e06a8e66b527dbd2e191c46831ce621&)
