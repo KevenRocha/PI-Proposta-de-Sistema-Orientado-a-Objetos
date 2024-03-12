@@ -2,7 +2,7 @@
 Grupo-27
 #  São Paulo 2024
 
-## CENTRO UNIVERSITÁRIO SENAC
+##  CENTRO UNIVERSITÁRIO SENAC
 
 ### Disciplina: Projeto Integrador Desenvolvimento de Sistemas Orientado a Objetos.
 
