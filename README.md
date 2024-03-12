@@ -4,7 +4,7 @@ Grupo-27
 
 ## CENTRO UNIVERSITÁRIO SENAC
 
-### Disciplina: Projeto Integrador Desenvolvimento de Sistemas Orientado a Objetos.
+### Disciplina: Projeto Integrador  Desenvolvimento de Sistemas Orientado a Objetos.
 
 ### Alunos:
 - Daniel Felipe de Camargo
