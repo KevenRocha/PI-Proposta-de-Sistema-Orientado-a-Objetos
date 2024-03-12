@@ -63,10 +63,10 @@ Grupo-27
 ![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216802932566134835/image.png?ex=6601b70a&is=65ef420a&hm=4b4e0ae9a6b8061389ac9a4f7891ebdfad85b528acbc5ed62e830648a883c53c&)
 
 ### Caso de Uso 10: Cadastrar Fornecedor
-![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216805122965901352/image.png?ex=6601b914&is=65ef4414&hm=94bb7b2bb655d283f47039230c76a108c2c62dfc98bfa90412cad49ac8bb772f&)
+![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216898524923301968/image.png?ex=66021011&is=65ef9b11&hm=ad070b94aa467975f69091204b280417b883a4e496bd694b871a89d322610e04&)
 
 ### Caso de Uso 11: Atualizar Dados do Fornecedor
-![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216792964345368646/image.png?ex=6601adc1&is=65ef38c1&hm=6f09bec23d88f4acf8f385fd877cebe84eac72190770809f72641d1ec50a5e3d&)
+![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216805122965901352/image.png?ex=6601b914&is=65ef4414&hm=94bb7b2bb655d283f47039230c76a108c2c62dfc98bfa90412cad49ac8bb772f&)
 
 ### Caso de Uso 12: Excluir fornecedor
 ![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216793330193662082/image.png?ex=6601ae18&is=65ef3918&hm=aa6519bdf271680759b74aeb4a2aa549d68a07c014df31d70627cb0b84ca183b&)
