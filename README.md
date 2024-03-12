@@ -43,7 +43,6 @@ Grupo-27
 ### Caso de Uso 5: Atualizar Dados da Empresa
 ![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216801646474952904/image.png?ex=6601b5d7&is=65ef40d7&hm=3109fd97cc49a114f0d7e0b928ab1280916a739b8eeb577e80082750b3e2cb58&)
 
-
 ---
 
 ## Professores
