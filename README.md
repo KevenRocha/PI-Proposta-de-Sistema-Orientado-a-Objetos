@@ -2,7 +2,7 @@
 Grupo-27
 # São Paulo 2024
 
-## CENTRO UNIVERSITÁRIO SENAC
+## CENTRO  UNIVERSITÁRIO SENAC
 
 ### Disciplina: Projeto Integrador  Desenvolvimento de Sistemas Orientado a Objetos.
 
@@ -33,7 +33,7 @@ Grupo-27
 
 ---
 
-## Pessoa Jurídica
+## Pessoa  Jurídica
 ### Opções de Seleção de pessoa juridica
 ![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216801841988501648/image.png?ex=6601b606&is=65ef4106&hm=9032b4eb2bb5dec059d606ea4f2616506c35b6ddcc8168eb1ce027e2474c37b9&)
 
@@ -58,7 +58,7 @@ Grupo-27
 ---
 
 ## Fornecedores
-### Opções de Seleção de fornecedores
+### Opções de Seleção de Fornecedores
 ![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216802932566134835/image.png?ex=6601b70a&is=65ef420a&hm=4b4e0ae9a6b8061389ac9a4f7891ebdfad85b528acbc5ed62e830648a883c53c&)
 
 ### Caso de Uso 10: Cadastrar Fornecedor
@@ -73,7 +73,7 @@ Grupo-27
 ---
 
 ## Alunos
-### Opções de Seleção de alunos
+### Opções de Seleção de Alunos
 ![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216808875303370863/image.png?ex=6601bc93&is=65ef4793&hm=ec2042234ee4274bb7db41cf74d9c18792341741de3065009c6c97746951852f&)
 
 ### Caso de Uso 13: Realizar Matrícula
