@@ -72,7 +72,7 @@ Grupo-27
 
 ---
 
-## Alunos
+## Alunos  
 ### Opções de Seleção de Alunos
 ![Texto Alternativo da Imagem](https://cdn.discordapp.com/attachments/1082970210140696676/1216808875303370863/image.png?ex=6601bc93&is=65ef4793&hm=ec2042234ee4274bb7db41cf74d9c18792341741de3065009c6c97746951852f&)
 
